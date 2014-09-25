@@ -1,0 +1,14 @@
+{
+	"name": "Novel-Spider",
+	"private": true,
+	"main": "app.js",
+	"version": "1.0.0",
+	"discription": "A Novel-Spider",
+	"dependencies" : {
+		"async" : "*",
+		"request": "*",
+		"cheerio": "*",
+		"iconv-lite": "*",
+		"bufferhelper": "*"
+	}
+}
